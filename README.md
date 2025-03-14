@@ -136,8 +136,6 @@ def predict_image(image_path):
 - Explore mixed-precision training for speed improvements
 - Deploy model as a web service or mobile application
 
-## License
-[Your License Information]
 
 ## Acknowledgements
 - Intel for providing the dataset
