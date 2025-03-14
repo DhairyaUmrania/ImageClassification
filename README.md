@@ -64,7 +64,6 @@ Dataset structure:
 - Training Time: ~1250 seconds (8 epochs)
 - Model Size: 267.39 MB
 
-![Training and Validation Loss](./img/model_changes.png)
 
 ## Requirements
 - Python 3.x
